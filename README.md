@@ -9,16 +9,18 @@ Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guusebumps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-  ## Skills
+  ## 👨🏽‍💻Skills
   <div style="display: inline_block"><br>
   <img align="center" alt="Gus-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gus-C++" height="30" width="40" src="https://worldvectorlogo.com/download/javascript-1.svg">
+  <img align="center" alt="Gus-JS" height="30" width="40" src="https://github.com/guusebumps/guusebumps/blob/main/javascript-1.svg">
+  <img align="center" alt="Gus-php" height="30" width="40" src="https://github.com/guusebumps/guusebumps/blob/main/php-1.svg">
+  <img align="center" alt="Gus-C" height="30" width="40" src="https://github.com/guusebumps/guusebumps/blob/main/c.svg">
 </div>
   
-  ## Contatos
+  ## 📲Contatos
   <div> 
   <a href="https://www.instagram.com/tech.gus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guussvianna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
