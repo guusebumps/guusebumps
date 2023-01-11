@@ -15,6 +15,7 @@ Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
   <img align="center" alt="Gus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gus-C++" height="30" width="40" src="https://worldvectorlogo.com/download/javascript-1.svg">
 </div>
   
   ## Contatos
