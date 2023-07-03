@@ -1,7 +1,7 @@
 Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
 
-- 🖥️ Atualmente cursando ciência da computação
-- 🤖 Estudando Python e MySQL
+- 🖥️ Cursando ciência da computação
+- 🤖 Estudando Python, MySQL e C++
 - 📱 Contatos: https://beacons.ai/gusebumps
 
 <div align="center">
@@ -13,10 +13,6 @@ Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
   <div style="display: inline_block"><br>
   <img align="center" alt="Gus-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gus-JS" height="30" width="40" src="https://github.com/guusebumps/guusebumps/blob/main/javascript-1.svg">
-  <img align="center" alt="Gus-php" height="30" width="40" src="https://github.com/guusebumps/guusebumps/blob/main/php-1.svg">
   <img align="center" alt="Gus-C" height="30" width="40" src="https://github.com/guusebumps/guusebumps/blob/main/c.svg">
 </div>
   
