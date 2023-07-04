@@ -1,7 +1,7 @@
 Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
 
 - 🖥️ Cursando ciência da computação
-- 🤖 Estudando Python, MySQL e C++
+- 🤖 Estudando Back-end
 - 📱 Contatos: https://beacons.ai/gusebumps
 
 <div align="center">
