@@ -2,7 +2,7 @@ Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
 
 - 🖥️ Cursando ciência da computação
 - 🤖 Estudando Back-end
-- 📱 Contatos: https://beacons.ai/gusebumps
+- 📱 Contatos: https://beacons.ai/tech.gus
 
 <div align="center">
   <a href="https://github.com/guusebumps">
