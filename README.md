@@ -1,9 +1,8 @@
 Olá, sou Gustavo da Silva Viana Rodrigues dos Santos
 
-- 🖥️ Cursando ciência da computação
-- 🌐 Inglês Avançado
-- 🤖 Aficionado por desenvolvimento Back-End
-- 📱 Contatos: https://beacons.ai/tech.gus
+- 🖥️ Computer Science
+- 🌐 San Diego State University
+- 📱 Contacts: https://beacons.ai/tech.gus
 
 <div align="center">
   <a href="https://github.com/guusebumps">
