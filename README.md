@@ -53,6 +53,8 @@
 <div align="left">
 </div>
 
-<img src="https://raw.githubusercontent.com/guusebumps/guusebumps/output/snake.svg" alt="Snake animation" />
+
+<img src="https://github.com/guusebumps/guusebumps/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
+
 
 ###
