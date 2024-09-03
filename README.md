@@ -1,6 +1,6 @@
 - 🖥️ Computer Science
 - 🤖 Machine Learning 
-- 🌐 San Diego State University - CA
+- 🌐 San Diego State University
 - 📱 Contacts: [https://beacons.ai/techgus3d](https://beacons.ai/techgus3d)
 
 <div align="center">
