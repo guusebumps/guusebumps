@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.wsj.net/im-568211"  />
+<img align="right" height="150" src="https://github.com/guusebumps/guusebumps/blob/main/robot.gif"  />
 
 ###
 
