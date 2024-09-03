@@ -1,7 +1,7 @@
 - 🖥️ Computer Science
 - 🤖 Machine Learning 
 - 🌐 San Diego State University - CA
-- 📱 Contacts: [https://beacons.ai/tech.gus](https://beacons.ai/techgus3d)
+- 📱 Contacts: [https://beacons.ai/techgus3d](https://beacons.ai/techgus3d)
 
 <div align="center">
   <a href="https://github.com/guusebumps">
